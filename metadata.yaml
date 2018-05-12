@@ -1,0 +1,40 @@
+_repo: The-Sunlit-Hours_45465
+_version: 0.1.0
+alternative_title: Les heures claires. English
+contributor:
+  translator:
+    agent_name: Murphy, Charles Royier
+    alias: Murphy, Charles R.
+    birthdate: 1884
+    gutenberg_agent_id: '43300'
+    url: http://www.gutenberg.org/2009/agents/43300
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Émile
+    - Verhaeren, Emile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+description: ''
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgian poetry (French) -- Translations into English'
+- !lcc 'PQ'
+title: The Sunlit Hours
+url: http://www.gutenberg.org/ebooks/45465
